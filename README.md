@@ -122,7 +122,6 @@ ZyroX-CV2-With-Dashboard/
 - Slash + prefix commands
 - FastAPI backend with API key auth + rate limiting
 - Cloudflare Tunnel — unlimited bandwidth, permanent URL, zero system installs
-- CodeX Devs watermark on every source file
 
 </td>
 </tr>
@@ -395,7 +394,6 @@ Runs automatically on startup when `EMOJI_SYNC=true`:
 
 <div align="center">
 
-## ✦ CodeX Devs
 
 *Built for protection. Designed for style.*
 
